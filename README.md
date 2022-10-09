@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about software development, data science, and game development.
 - 🌱 I’m proficient in Java and Python.
 - 💞️ I’m seeking summer 2023 internship in relative fields.
-- 📫 Reach me at: zohar@uw.edu
+- 📫 Reach me at: zohar@cs.washington.edu
 
 <!---
 Zohar-Le/Zohar-Le is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
