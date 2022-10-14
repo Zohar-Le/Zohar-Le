@@ -3,6 +3,7 @@
 - 🌱 I’m proficient in Java and Python.
 - 💞️ I’m seeking summer 2023 internship in relative fields.
 - 📫 Reach me at: zohar@cs.washington.edu
+- ✨ My Portfolio: https://zohar-le.github.io/  
 
 <!---
 Zohar-Le/Zohar-Le is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
